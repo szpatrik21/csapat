@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="ccs/style.ccs">
+</head>
+<body>
+    <h1>Számítógépes játékok története</h1>
+<p class="kepek">   
+        <a href="index.html">
+            <img src="img/c64.png" alt="">
+            <a href="gameboy.html"></a>
+                <img src="img/gb.png" alt="">
+            </a>
+            <a href="pong.html"></a>
+                <img src="img/po.png" alt="">
+            </a>
+            <a href="spacewar.html"></a>
+                <img src="img/sw.png" alt="">
+        </a>
+</p>
+Számítógépes játékok története
+
+A számítógépes játékok története a számítógépekével közel azonos időre vezethető vissza. Az első programozók csak a maguk szórakoztatására vagy a számítógép képességeinek demonstrálására készítették számítógépes játékprogramjaikat. Később jelent meg az üzlet lehetősége, ami önálló iparrá tette a számítógépes játékgyártást. A számítógépekben rejlő lehetőségek bemutatására készített játékprogramok mind a mai napig fontos színterei a fejlesztéseknek. Gondoljunk csak a sakkozógépre. A Deep Blue az IBM által kifejlesztett számítógép, amely sakkjátékban 1997-ben egy szabályszerű hatjátszmás páros mérkőzésen 3,5-2,5 arányban legyőzte Garri Kaszparovot, az emberi sakkozás akkori világbajnokát. A cél az volt, hogy bemutassák, a számítógép nem úgy gondolkozik, ahogy az ember, de a nyers számítási erő képes speciális esetekben az emberi gondolkodással vetekedni.
+<p>
+
+</p>
+<p>
+    Napjaink számítógépes játékainak egyik csoportosítása:
+</p>
+<ul>
+    <li>Akciójáték</li>
+    <li>Kalandjáték </li>
+    <li>Szerepjáték</li>
+    <li>Szimuláció</li>
+    <li>Stratégiai játék</li>
+    <li>Tábla- és kártyajáték</li>
+    <li>Egyéb játékok</li>
+</ul>
+
+ 
+
+
+
+
+</body>
+</html>
